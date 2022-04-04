@@ -55,6 +55,6 @@ pip install matplotlib
 
    R Vemulapalli, A Agarwala, “A Compact Embedding for Facial Expression Similarity”, CoRR, abs/1811.11283, 2018.
  
- 2 5 Celebrity Faces Dataset
+2. 5 Celebrity Faces Dataset
  
    .https://www.kaggle.com/datasets/dansbecker/5-celebrity-faces-dataset
