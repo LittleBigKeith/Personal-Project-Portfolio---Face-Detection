@@ -17,6 +17,23 @@ cv2 is the module we need to detect faces
 ```
 pip install opencv-python
 ```
+2. cMake
+
+for compiling dlib, a modern C++ toolkit containing machine learning algorithms and
+tools for creating complex software in C++ to solve real-world problems.
+
+```
+pip install cmake
+```
+
+3. dlib
+
+dlib is a modern C++ toolkit containing machine learning algorithms and
+tools for creating complex software in C++ to solve real-world problems.
+
+```
+conda install -c conda-forge dlib
+```
 
 **Optional libraries:**
 1. Matplotlib
