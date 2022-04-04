@@ -25,7 +25,6 @@ tools for creating complex software in C++ to solve real-world problems.
 ```
 pip install cmake
 ```
-
 3. dlib
 
 dlib is a modern C++ toolkit containing machine learning algorithms and
@@ -34,7 +33,13 @@ tools for creating complex software in C++ to solve real-world problems.
 ```
 conda install -c conda-forge dlib
 ```
+4. Face Recognition
 
+face recognition contains facial recognition functionalities that wrap around dlib.
+
+```
+conda install -c conda-forge face_recognition
+```
 **Optional libraries:**
 1. Matplotlib
 
@@ -44,7 +49,12 @@ A helper library to plot images with coordinates
 pip install matplotlib
 ```
 
+
 ### Datasets used in this project
 1. Google Facial Expression Comparison Dataset
 
    R Vemulapalli, A Agarwala, “A Compact Embedding for Facial Expression Similarity”, CoRR, abs/1811.11283, 2018.
+ 
+ 2 5 Celebrity Faces Dataset
+ 
+   .https://www.kaggle.com/datasets/dansbecker/5-celebrity-faces-dataset
