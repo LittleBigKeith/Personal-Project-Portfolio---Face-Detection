@@ -26,3 +26,8 @@ A helper library to plot images with coordinates
 ```
 pip install matplotlib
 ```
+
+### Datasets used in this project
+1. Google Facial Expression Comparison Dataset
+
+   R Vemulapalli, A Agarwala, “A Compact Embedding for Facial Expression Similarity”, CoRR, abs/1811.11283, 2018.
