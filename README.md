@@ -57,4 +57,8 @@ pip install matplotlib
  
 2. 5 Celebrity Faces Dataset
  
-   .https://www.kaggle.com/datasets/dansbecker/5-celebrity-faces-dataset
+   https://www.kaggle.com/datasets/dansbecker/5-celebrity-faces-dataset
+  
+3. Harry Potter Characters Dataset
+
+   https://github.com/wenyenwei/openCV_face_detection_harry_potter 
